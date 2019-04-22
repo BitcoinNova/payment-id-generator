@@ -1,2 +1,2 @@
-# payment-id-generator
+# Payment ID Generator
 Payment ID Generator Website
